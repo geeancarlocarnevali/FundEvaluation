@@ -1,2 +1,2 @@
-# FundEvaluation
-Performance Evaluation of the Fidelity Small Cap Stock Fund (FSLCX).The performance is evaluated relative to the Russell 2000 Index, which serves as the primary benchmark. In addition, the S&amp;P 500 Index is included as a supplementary reference 
+# Performance Evaluation of the Fidelity Small Cap Stock Fund (FSLCX).
+This analysis evaluates the performance of the Fidelity Small Cap Stock Fund (FSLCX) relative to the Russell 2000 Index, which serves as the fund’s primary benchmark due to its representation of the U.S. small cap equity market. In addition, the S&P 500 Index is included as a supplementary reference to provide broader market context and facilitate comparison with large cap market dynamics. The evaluation covers a two year period from November 1, 2022, to October 30, 2024. 
